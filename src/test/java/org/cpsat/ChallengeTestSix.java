@@ -24,7 +24,7 @@ public class ChallengeTestSix {
 
 
 	@Test
-	public void testChallengeOne() throws IOException {
+	public void testChallengeSix() throws IOException {
 
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();

@@ -20,7 +20,7 @@ public class ChallengeTestFour {
 
 
 	@Test
-	public void testChallengeThree() throws InterruptedException {
+	public void testChallengeFour() throws InterruptedException {
 		WebDriverManager.firefoxdriver().setup();
 		WebDriver driver = new FirefoxDriver();
 
