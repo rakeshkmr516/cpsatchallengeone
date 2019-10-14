@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Bags First Eight prices list: [11635, 10995, 10995, 9695, 9695, 8995, 8995, 7995]]]>
+    </line>
+    <line>
+      <![CDATA[Descending order list: [11635, 10995, 10995, 9695, 9695, 8995, 8995, 7995]]]>
+    </line>
+    <line>
+      <![CDATA[Shoes First Eight prices list: [5995, 5995, 4795, 4695, 4695, 4695, 4395, 4295]]]>
+    </line>
+    <line>
+      <![CDATA[Descending order list: [5995, 5995, 4795, 4695, 4695, 4695, 4395, 4295]]]>
+    </line>
+    <line>
+      <![CDATA[Tshirts First Eight prices list: [3695, 3695, 3495, 3495, 3495, 3495, 3495, 3175]]]>
+    </line>
+    <line>
+      <![CDATA[Descending order list: [3695, 3695, 3495, 3495, 3495, 3495, 3495, 3175]]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2019-10-14T23:27:54 IST" name="Default suite" finished-at="2019-10-14T23:28:14 IST" duration-ms="20152">
+    <groups>
+    </groups>
+    <test started-at="2019-10-14T23:27:54 IST" name="Default test" finished-at="2019-10-14T23:28:14 IST" duration-ms="20152">
+      <class name="org.cpsat.ChallengeTestSix">
+        <test-method signature="testChallengeOne()[pri:0, instance:org.cpsat.ChallengeTestSix@1d8bd0de]" started-at="2019-10-14T23:27:54 IST" name="testChallengeOne" finished-at="2019-10-14T23:28:14 IST" duration-ms="20117" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Bags First Eight prices list: [11635, 10995, 10995, 9695, 9695, 8995, 8995, 7995]]]>
+            </line>
+            <line>
+              <![CDATA[Descending order list: [11635, 10995, 10995, 9695, 9695, 8995, 8995, 7995]]]>
+            </line>
+            <line>
+              <![CDATA[Shoes First Eight prices list: [5995, 5995, 4795, 4695, 4695, 4695, 4395, 4295]]]>
+            </line>
+            <line>
+              <![CDATA[Descending order list: [5995, 5995, 4795, 4695, 4695, 4695, 4395, 4295]]]>
+            </line>
+            <line>
+              <![CDATA[Tshirts First Eight prices list: [3695, 3695, 3495, 3495, 3495, 3495, 3495, 3175]]]>
+            </line>
+            <line>
+              <![CDATA[Descending order list: [3695, 3695, 3495, 3495, 3495, 3495, 3495, 3175]]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testChallengeOne -->
+      </class> <!-- org.cpsat.ChallengeTestSix -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
